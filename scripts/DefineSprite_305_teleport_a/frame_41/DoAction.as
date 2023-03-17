@@ -1,0 +1,9 @@
+_root.na_rade._visible = true;
+_root["tank" + _root.na_rade.tank_number + "_hlaven"]._visible = true;
+_root.na_rade._x = _X;
+_root.na_rade._y = _Y;
+_root["tank" + _root.na_rade.tank_number + "_hlaven"]._x = _X;
+_root["tank" + _root.na_rade.tank_number + "_hlaven"]._y = _Y - 1;
+_root["shield" + _root.na_rade.tank_number]._visible = true;
+_root["shield" + _root.na_rade.tank_number]._x = _X;
+_root["shield" + _root.na_rade.tank_number]._y = _Y;

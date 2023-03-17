@@ -1,0 +1,7 @@
+TOTAL PLAYERS WITH COMPUTER 
+--- RECORDSEPARATOR ---
+CONTROLLED (2 players = 
+--- RECORDSEPARATOR ---
+1 human vs 1 computer 
+--- RECORDSEPARATOR ---
+or 2 humans)

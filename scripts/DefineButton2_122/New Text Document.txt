@@ -1,0 +1,19 @@
+using UnityEngine;
+
+public class TankController : MonoBehaviour {
+    
+    void Update () {
+        if (Input.GetKeyDown(KeyCode.Q))
+        {
+            if (GetComponent<Tank>().type == "tank")
+            {
+                view_backward();
+            }
+        }
+    }
+
+    void view_backward()
+    {
+        // عملیات مورد نیاز برای نمایش به عقب
+    }
+}
